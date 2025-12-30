@@ -1,7 +1,5 @@
-jitsi/prosody:stable-10655
-jitsi/jvb:stable-10655
-jitsi/jicofo:stable-10655
-jitsi/web:stable-10655
+jitsi/jibri:stable-10655
+jitsi/jigasi:stable-10655
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
